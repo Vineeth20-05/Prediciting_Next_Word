@@ -13,7 +13,7 @@ The model predicts the *next word* based on the input sequence provided by the u
 
 ## 🚀 Live Streamlit App  
 🔗 **Streamlit Deployment Link:**  
-👉 https://readmemd-gxutcqrxlpd8auhtjojdx6.streamlit.app/
+👉 https://predicitingnextword-8gkzzhfihgrtjbn3hd3hww.streamlit.app/
 
 ---
 
